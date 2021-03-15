@@ -101,66 +101,90 @@ BEGINNING OF TURN 2 COMBAT PHASE
  
 		Attacker: Player 2 Shipyard 1
 		Defender: Player 1 Scout 1
+		Highest Roll for Hit: 3
 		Die Roll: 10
 		(Miss)
 
 		Attacker: Player 2 Shipyard 2
 		Defender: Player 1 Scout 1
+		Highest Roll for Hit: 3
 		Die Roll: 10
 		(Miss)
 
 		Attacker: Player 2 Shipyard 3
 		Defender: Player 1 Scout 1
+		Highest Roll for Hit: 3
 		Die Roll: 1
 		Hit!
 		Player 1 Scout 1 was destroyed
 
 		Attacker: Player 2 Shipyard 4
 		Defender: Player 1 Scout 2
+		Highest Roll for Hit: 3
 		Die Roll: 1
 		Hit!
 		Player 1 Scout 2 was destroyed
 
 		Attacker: Player 2 Scout 1
 		Defender: Player 1 Scout 3
+		Highest Roll for Hit: 3
 		Die Roll: 9
 		(Miss)
 
 		Attacker: Player 2 Scout 2
 		Defender: Player 1 Scout 3
+		Highest Roll for Hit: 3
 		Die Roll: 8
 		(Miss)
 
 		Attacker: Player 2 Scout 3
 		Defender: Player 1 Scout 3
+		Highest Roll for Hit: 3
 		Die Roll: 7
+		(Miss)
+
+		Attacker: Player 1 Scout 3
+		Defender: Player 2 Shipyard 1
+		Highest Roll for Hit: 3
+		Die Roll: 4
 		(Miss)
 
 		Attacker: Player 2 Shipyard 1
 		Defender: Player 1 Scout 3
-		Die Roll: 4
+		Highest Roll for Hit: 3
+		Die Roll: 7
 		(Miss)
 
 		Attacker: Player 2 Shipyard 2
 		Defender: Player 1 Scout 3
+		Highest Roll for Hit: 3
 		Die Roll: 7
 		(Miss)
 
 		Attacker: Player 2 Shipyard 3
 		Defender: Player 1 Scout 3
-		Die Roll: 7
+		Highest Roll for Hit: 3
+		Die Roll: 6
 		(Miss)
 
 		Attacker: Player 2 Shipyard 4
 		Defender: Player 1 Scout 3
-		Die Roll: 6
-		(Miss)
-
-		Attacker: Player 2 Scout 1
-		Defender: Player 1 Scout 3
+		Highest Roll for Hit: 3
 		Die Roll: 2
 		Hit!
 		Player 1 Scout 3 was destroyed
+
+	Survivors:
+
+		(3, 6)
+
+			Player 2 Shipyard 1
+			Player 2 Shipyard 2
+			Player 2 Shipyard 3
+			Player 2 Shipyard 4
+			Player 2 Scout 1
+			Player 2 Scout 2
+			Player 2 Scout 3
 
 END OF TURN 2 COMBAT PHASE
 
