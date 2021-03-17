@@ -16,11 +16,19 @@ class BerserkerStrategy:
         for unit in combat_state:
             if unit['player'] != self.player_number:
                 if unit['type'] not in ['Homeworld', 'Colony']:
-                    return (unit['type'], unit['num'])
+                    return {
+                        'player': unit['player'],
+                        'type': unit['type'],
+                        'number': unit['num']
+                    }
 
         for unit in combat_state:
             if unit['player'] != self.player_number:
-                return (unit['type'], unit['num'])
+                return {
+                    'player': unit['player'],
+                    'type': unit['type'],
+                    'number': unit['num']
+                }
 
 class StationaryStrategy:
 
